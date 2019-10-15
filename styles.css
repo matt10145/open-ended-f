@@ -1,0 +1,18 @@
+/*Custom Style Sheet*/
+
+h1 {
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+.background1 {
+  background-color: lightblue;
+}
+
+.background2 {
+  background-color: plum;
+}
+
+td:hover {
+  text-decoration: underline;
+}
